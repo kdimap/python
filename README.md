@@ -1,2 +1,2 @@
 # python
-Мови скрипты на python
+Мои скрипты на python
